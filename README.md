@@ -24,3 +24,6 @@ Machine Learning
 OpenCV
 Tensorflow_hub
 Flask
+
+### Working Video Link
+https://shorturl.at/CUUPG
